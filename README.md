@@ -13,5 +13,5 @@ Supports efficient and non-blocking interactions using Python’s async capabili
 *Integration Ready:
 The bot can be extended to integrate with various platforms, such as Discord, Telegram, or web applications
 
-Requirements
+Requirements:
 see Requirements.txt
