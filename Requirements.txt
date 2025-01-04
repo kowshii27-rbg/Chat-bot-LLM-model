@@ -1,0 +1,8 @@
+requests==2.31.0       # For handling API calls to Ollama LLaMA 3  
+flask==2.3.3          # For building a simple web interface (optional)  
+fastapi==0.95.2       # For building modern, async web APIs (optional)  
+uvicorn==0.22.0       # For running FastAPI (if used)  
+aiohttp==3.8.5        # For async API requests (optional)  
+python-dotenv==1.0.0  # For loading API keys and configurations from a .env file  
+rich==13.5.2          # For enhanced terminal output (optional)  
+click==8.1.7          # For command-line interface utilities 
